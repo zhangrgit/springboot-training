@@ -10,3 +10,4 @@ springboot training
 - [springboot(二) ：配置文件类型、取值方式、资源初始化](https://github.com/zhangrgit/springboot-training/tree/master/chapter2 "chapter2")        
  + [springboot(三) ：jpa+thymeleaf crud](https://github.com/zhangrgit/springboot-training/tree/master/chapter3 "chapter3")
 * [springboot(四) ：@ControllerAdvice 拦截异常并统一处理](https://github.com/zhangrgit/springboot-training/tree/master/chapter4 "chapter4") 
+* [springboot(五) ：Session共享和国际化](https://github.com/zhangrgit/springboot-training/tree/master/chapter5 "chapter5") 
