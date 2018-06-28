@@ -32,22 +32,29 @@
 			<scope>provided</scope>
 		</dependency>
 
+      <!--legacyhtml5编码格式 https://www.cnblogs.com/memoryXudy/p/7681991.html-->
+      <dependency>
+          <groupId>net.sourceforge.nekohtml</groupId>
+          <artifactId>nekohtml</artifactId>
+          <version>1.9.22</version>
+      </dependency>
+      
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 		
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-redis</artifactId>
 			<version>1.4.6.RELEASE</version>
 		</dependency>
 		
-		<!--spring session -->
+		spring session
 		<dependency>
 			<groupId>org.springframework.session</groupId>
 			<artifactId>spring-session-data-redis</artifactId>
-		</dependency>
+		</dependency> -->
 
 
 	</dependencies>

@@ -39,8 +39,8 @@ public class SessionController {
 		if ("zh".equals(lang)) {
 			localeResolver.setLocale(request, response, new Locale("zh", "CN"));
 		} else if ("en".equals(lang)) {
-			System.out.println("en");
-			localeResolver.setLocale(request, response, new Locale("en", "US"));
+//			localeResolver.setLocale(request, response, new Locale("en", "US"));
+			localeResolver.setLocale(request, response, Locale.US);
 		}
 		return "redirect:/";
 	}
