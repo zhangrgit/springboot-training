@@ -18,8 +18,15 @@
 	
 	<modules>
 		<module>chapter1</module>
-		<module>chapter2</module>		
+		<module>chapter2</module>
+		<module>chapter3</module>
+		<module>chapter4</module>
+		<module>chapter5</module>
+		<module>chapter6</module>	
+		<module>chapter7</module>
+        <module>chapter8</module>		
 	</modules>
+	
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
