@@ -11,7 +11,8 @@ springboot training
 * [springboot(三) ：jpa+thymeleaf crud](https://github.com/zhangrgit/springboot-training/tree/master/chapter3 "chapter3")                                                                       
 * [springboot(四) ：@ControllerAdvice 拦截异常并统一处理](https://github.com/zhangrgit/springboot-training/tree/master/chapter4 "chapter4")                                                                                         
 * [springboot(五) ：Session共享和国际化](https://github.com/zhangrgit/springboot-training/tree/master/chapter5 "chapter5")                                                                                                                                                   
-* [springboot(六) ：多环境应用(打包、运行、高级应用)](https://blog.csdn.net/m0_37125796/article/details/80819967 "csdn")                                                                
+* [springboot(六) ：多环境应用(打包、运行、高级应用)](https://blog.csdn.net/m0_37125796/article/details/80819967 "csdn")
+* [springboot(七) ：自定义品牌LOGO-Banner](https://github.com/zhangrgit/springboot-training/tree/master/chapter6 "chapter6")                                                                
 
 
 ### 参考代码:
