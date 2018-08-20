@@ -14,7 +14,10 @@ springboot training
 * [springboot(六) ：多环境应用(打包、运行、高级应用)](https://blog.csdn.net/m0_37125796/article/details/80819967 "csdn")
 * [springboot(七) ：自定义品牌LOGO-Banner](https://github.com/zhangrgit/springboot-training/tree/master/chapter6 "chapter6")
 * [springboot(八) ：定时任务](https://github.com/zhangrgit/springboot-training/tree/master/chapter7 "chapter7") 
-* [springboot(九) ：异步调用任务](https://github.com/zhangrgit/springboot-training/tree/master/chapter8 "chapter8")                                                                 
+* [springboot(九) ：异步调用任务](https://github.com/zhangrgit/springboot-training/tree/master/chapter8 "chapter8") 
+* [springboot(十) ：JdbcTemplate使用](https://github.com/zhangrgit/springboot-training/tree/master/chapter9 "chapter8")                                                                 
+* [springboot(十一) ：JdbcTemplate多数据源](https://github.com/zhangrgit/springboot-training/tree/master/chapter10 "chapter8")                                                                 
+                                                                
 
 
 ### 参考代码:
