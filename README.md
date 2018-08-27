@@ -15,8 +15,10 @@ springboot training
 * [springboot(七) ：自定义品牌LOGO-Banner](https://github.com/zhangrgit/springboot-training/tree/master/chapter6 "chapter6")
 * [springboot(八) ：定时任务](https://github.com/zhangrgit/springboot-training/tree/master/chapter7 "chapter7") 
 * [springboot(九) ：异步调用任务](https://github.com/zhangrgit/springboot-training/tree/master/chapter8 "chapter8") 
-* [springboot(十) ：JdbcTemplate使用](https://github.com/zhangrgit/springboot-training/tree/master/chapter9 "chapter8")                                                                 
-* [springboot(十一) ：JdbcTemplate多数据源](https://github.com/zhangrgit/springboot-training/tree/master/chapter10 "chapter8")                                                                 
+* [springboot(十) ：JdbcTemplate使用](https://github.com/zhangrgit/springboot-training/tree/master/chapter9 "chapter9")                                                                 
+* [springboot(十一) ：JdbcTemplate多数据源](https://github.com/zhangrgit/springboot-training/tree/master/chapter10 "chapter10")
+* [springboot(十二) ：Jpa使用](https://github.com/zhangrgit/springboot-training/tree/master/chapter11 "chapter11")
+* [springboot(十三) ：Jpa多数据源](https://github.com/zhangrgit/springboot-training/tree/master/chapter12 "chapter12")                                                                
                                                                 
 
 

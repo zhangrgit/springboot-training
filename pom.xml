@@ -10,7 +10,6 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>	
 	
-	
     <artifactId>springboot-training</artifactId>	
 	<packaging>pom</packaging>
 	<name>springboot-training</name>
@@ -27,6 +26,8 @@
         <module>chapter8</module>	
         <module>chapter9</module>
         <module>chapter10</module>	
+        <module>chapter11</module>
+        <module>chapter12</module>
 	</modules>
 	
 
