@@ -18,7 +18,10 @@ springboot training
 * [springboot(十) ：JdbcTemplate使用](https://github.com/zhangrgit/springboot-training/tree/master/chapter9 "chapter9")                                                                 
 * [springboot(十一) ：JdbcTemplate多数据源](https://github.com/zhangrgit/springboot-training/tree/master/chapter10 "chapter10")
 * [springboot(十二) ：Jpa使用](https://github.com/zhangrgit/springboot-training/tree/master/chapter11 "chapter11")
-* [springboot(十三) ：Jpa多数据源](https://github.com/zhangrgit/springboot-training/tree/master/chapter12 "chapter12")                                                                
+* [springboot(十三) ：Jpa多数据源](https://github.com/zhangrgit/springboot-training/tree/master/chapter12 "chapter12")   
+* [springboot(二十八) ：logback不同业务的日志打印到不同文件](https://github.com/zhangrgit/springboot-training/tree/master/chapter28 "chapter28")
+* [springboot(二十九) ：用WebSocket + tail命令实现Web实时日志](https://github.com/zhangrgit/springboot-training/tree/master/chapter29 "chapter29")
+* [springboot(三十) ：用WebSocket实现tomcat的服务请求日志实时输出到web页面](https://github.com/zhangrgit/springboot-training/tree/master/chapter30 "chapter30")                                                             
                                                                 
 
 
